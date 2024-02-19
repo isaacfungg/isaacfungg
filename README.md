@@ -12,18 +12,13 @@
 
 
 
-<div style="display:flex; justify-content: space-around; align-items: flex-start;">
-    <div>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacfungg&" width="400" height="200" alt="isaacfungg" />
-    </div>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=isaacfungg&show_icons=true&locale=en" width="400" height="200" alt="isaacfungg" />
-    </div>
-</div>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isaacfungg&show_icons=true&locale=en&layout=compact" width="400" height="200" alt="isaacfungg" />
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacfungg&" width="400" height="200" alt="isaacfungg" />
 </p>
 
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaacfungg&show_icons=true&locale=en" width="400" height="200" alt="isaacfungg" />
+</p>
 
 
 
