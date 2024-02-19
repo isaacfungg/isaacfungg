@@ -13,7 +13,7 @@
 
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacfungg&" width="400" height="200" alt="isaacfungg" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacfungg&" width="400" height="200" alt="isaacfungg" />
 </p>
 
 <p>
