@@ -16,7 +16,7 @@
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaacfungg&show_icons=true&locale=en" width="400" height="200" alt="isaacfungg" />
+  &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=isaacfungg&show_icons=true&locale=en" width="400" height="200" alt="isaacfungg" />
 </p>
 
 <p>
