@@ -27,7 +27,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacfungg&" alt="isaacfungg" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=isaacfungg&show_icons=true&locale=en" alt="isaacfungg" width="47%" />
+  <img src="https://readme-stats-git-main-isaacs-projects-d4b89358.vercel.app/api?username=isaacfungg&show_icons=true&locale=en" alt="isaacfungg" width="47%" />
 </div>
 
 
