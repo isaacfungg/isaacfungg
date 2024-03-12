@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">I am studying Computer Science at the University of British Columbia.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacfungg&label=Profile%20views&color=0e75b6&style=flat" alt="isaacfungg" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=isaacfungg&label=Profile%20views&color=0e75b6&style=flat" alt="isaacfungg" /> </p>
 <h3 align="center">Connect with me:</h3>
 <div align="center"> 
   <a href="mailto:isaacfungg@gmail.com">
